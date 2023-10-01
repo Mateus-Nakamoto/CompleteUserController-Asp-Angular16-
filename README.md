@@ -1,5 +1,4 @@
-# CompleteUserControl-Asp-Angular16
-Asp.net, Entity Framework 6.0, Angular 16
+Using Asp.net, Entity Framework 6.0, Angular 16
 
 Need get the Angular project folder*****
 
